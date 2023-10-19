@@ -17,7 +17,13 @@ export default function Skills() {
             possimus est.
           </p>
         </div>
+
+        <h2 className="text-white sm:text-2xl text-xl mb-1 font-medium title-font flex justify-center items-center">
+            Languages
+          </h2>
+
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
+
           {skills.map((skill) => (
             <div key={skill.sk} className="p-2 sm:w-1/2 w-full">
               <div className="bg-gray-800 rounded flex p-4 h-full items-center">
