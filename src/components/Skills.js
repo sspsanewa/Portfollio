@@ -11,19 +11,13 @@ export default function Skills() {
           <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-4">
             Skills &amp; Technologies
           </h1>
-          <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
-          </p>
         </div>
 
-        <h2 className="text-white sm:text-2xl text-xl mb-1 font-medium title-font flex justify-center items-center">
+       {/*<h2 className="text-white sm:text-2xl text-xl mb-1 font-medium title-font flex justify-center items-center">
             Languages
-          </h2>
+          </h2>*/} 
 
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
-
           {skills.map((skill) => (
             <div key={skill.sk} className="p-2 sm:w-1/2 w-full">
               <div className="bg-gray-800 rounded flex p-4 h-full items-center">

@@ -34,8 +34,14 @@ export const projects = [
   ];
 
   export const skills = [
-    {sk:"A"},
-    {sk:"B"},
     {sk:"C"},
-    {sk:"D"},
+    {sk:"C++"},
+    {sk:"Html"},
+    {sk:"Css"},
+    {sk:"JavaScript"},
+    {sk:"React.js"},
+    {sk:"Node.js"},
+    {sk:"Express"},
+    {sk:"Mongodb"},
+    {sk:"Git & Github"},
   ];

@@ -84,6 +84,13 @@ export default function Contact() {
           </button>
         </form>
       </div>
+      <div className="flex justify-center space-x-4">
+          <h1 className="text-white sm:text-2xl text-xl mb-1 font-medium title-font">Or Email at</h1>
+        </div>
+        <div className="flex justify-center space-x-4">
+          <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="GitHub Logo" className="h-8" />
+          spsanewa@gmail.com
+          </div>
     </section>
   );
 }
