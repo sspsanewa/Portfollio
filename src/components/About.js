@@ -29,9 +29,9 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            className="object-cover object-center w-1/2  h-1/2 rounded "
             alt="hero"
-            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQ5aULg3WcJm0QJMJ-olk9HagB3s5cD1sMg&usqp=CAU"
+            src="./IMG_20231020_154614.jpg"
           />
         </div>
       </div>
