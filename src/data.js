@@ -14,7 +14,7 @@ export const projects = [
       title: "Figma",
       subtitle: "Figma pages for ecomerce website",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing . Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "In this project i have created different pages of a ecomerce website like- Admin page, User page, Profile page, Billing page, Order page and Product page.To create this project i have used HTML, CSS, JavaScript, React, Material UI.",
       image: figma,
       link: "https://vermillion-conkies-c3b466.netlify.app",
     },
@@ -22,7 +22,7 @@ export const projects = [
       title: "React Tracks",
       subtitle: "React and Python",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing . Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Currently i am working on this project. I am making this website for my village school. To create this project i have used HTML, CSS, JavaScript, React, Material UI.It is responsive also.",
       image: school,
       link: "https://leafy-sunflower-b59374.netlify.app",
     },
