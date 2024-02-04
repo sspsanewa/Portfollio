@@ -13,7 +13,7 @@ export default function Projects() {
             Projects I've Built
           </h1>
         </div>
-        <div className="flex flex-wrap -m-4">
+        <div className="flex flex-wrap mb-4">
           {projects.map((project) => (
             <a
               href={project.link}
@@ -23,7 +23,7 @@ export default function Projects() {
               <div className="flex relative">
                 <img
                   alt="gallery"
-                  className="absolute inset-0 min-w-0 min-h-0 object-cover object-center"
+                  className="absolute inset-0 h-72  w-full object-cover object-center "
                   src={project.image}
                 />
 

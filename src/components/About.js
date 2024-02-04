@@ -27,9 +27,9 @@ export default function About() {
             </a>
           </div>
         </div>
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
+        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6  ">
           <img
-            className="object-cover object-center w-1/2  h-1/2 rounded "
+            className="object-cover object-center w-1/2  h-1/2 rounded-full border-gray-800 border-4 "
             alt="hero"
             src="./IMG_20231020_154614.jpg"
           />
