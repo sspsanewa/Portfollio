@@ -38,6 +38,9 @@ export const skills = [
   { sk: "React.js" },
   { sk: "Node.js" },
   { sk: "Express" },
+  { sk: "Mysql" },
+  { sk: "Sql" },
   { sk: "Mongodb" },
   { sk: "Git & Github" },
+  { sk: "Postman" }
 ];
